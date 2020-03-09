@@ -45,7 +45,7 @@ img{
 
 .background{
     position: relative;
-    background-image: url(/img/baner@1x.png);
+    background-image: url(../img/baner1.png);
     background-size: cover;
     background-position: center;
     height: 1000px;
