@@ -92,12 +92,6 @@ img{
     display: flex;
 }
 
-.nav__item svg{
-    width: 20px;
-    height: 20px;
-    fill: #ffffff;
-}
-
 .nav__link{
     text-transform: uppercase;
     color:#ffffff;
@@ -114,6 +108,12 @@ img{
 .nav__link:hover,
 .nav__link:focus{
     color: #fbde8a;
+}
+
+.nav__link--icon svg{
+    width: 20px;
+    height: 20px;
+    fill: #ffffff;
 }
 .nav__link--icon svg:hover{
     fill: #fce38a;

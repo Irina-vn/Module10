@@ -1,5 +1,5 @@
 @media print and (min-resolution: 192dpi), (min-resolution: 2dppx){
     .background{
-        background-image: url(/img/baner@2x.jpg);
+        background-image: url(../img/baner@2x.jpg);
     }
 }
